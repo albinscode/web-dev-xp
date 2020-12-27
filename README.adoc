@@ -1,3 +1,8 @@
+= Le métier de développeur
+:toc: macro
+:toc-title: Table des matières
+:toclevels: 9
+
 # Introduction
 
 ## Disclaimer!
@@ -44,6 +49,10 @@ Pour faire court, ma passion pour les langages informatiques et l'architecture l
 Au délà du partage d'expérience, il y a un point important sur lequel je me permets d'insister : le manque de ressources francophones. Souvent, et je suis le premier à tomber dans ce travers, on utilise l'anglais pour toute documentation, écriture de code, etc... En donnant quelques formations chez des clients, j'ai souvent eu cette remarque quand je fournissais une bibliographie anglophone : "Vous n'auriez pas le livre en français ?". En voulant toucher un maximum de personnes à travers le monde, on utilise trop souvent l'anglais en informatique mais il ne faut pas laisser la francophonie en reste qui est importante et qui mérite bien des contributions.
 
 Et puis, il faut bien l'avouer, cela m'est bien plus facile de mon côté que de rédiger ma prose dans ma langue maternelle même si l'exercice de style en anglais demeure intéressant.
+
+
+toc::[]
+
 
 # Construction du livre
 
