@@ -1,9 +1,0 @@
-:toc: macro
-:toc-title:
-:toclevels: 9
-
-toc::[]
-
-# intro
-
-## test

@@ -23,7 +23,7 @@ C'est également vrai pour une formation ou des études, cela vous prépare (plu
 
 "Donc en gros, avec ce livre, on va avoir une mine d'or déjà prête et adaptable à tout pour devenir une méga star de l'informatique et devenir millionnaire ?"
 
-Si seulement... :) Bien sûr que non, ce ne serait tout bonnement pas possible avec un seul livre et une seule personne. Je constate juste qu'après près de vingt d'expérience dans ce magnifique métier, certaines personnes sont curieuses de connaître les expériences des autres et de les partager pour s'améliorer ou éviter les erreurs déjà commises.
+Si seulement... :) Bien sûr que non, ce ne serait tout bonnement pas possible avec un seul livre et une seule personne. Je constate juste qu'après près de vingt ans d'expérience dans ce magnifique métier, certaines personnes sont curieuses de connaître les expériences des autres et de les partager pour s'améliorer ou éviter les erreurs déjà commises.
 
 Il faut considérer cette tentative de livre comme un agrégat de discussions compulsées au fur et à mesure lors de pauses café. C'est plus sympa et le message passe mieux. C'est d'ailleurs une semi-vérité car je rapporte ici des sujets dont je discute assez régulièrement avec mes collègues.
 
@@ -51,9 +51,6 @@ Au délà du partage d'expérience, il y a un point important sur lequel je me p
 Et puis, il faut bien l'avouer, cela m'est bien plus facile de mon côté que de rédiger ma prose dans ma langue maternelle même si l'exercice de style en anglais demeure intéressant.
 
 
-toc::[]
-
-
 # Construction du livre
 
 Le découpage est thématique et chacune d'elle essaiera de répondre aux questions via des anecdotes ou réflexions. Une conclusion synthétisera les grands points à retenir.
@@ -69,9 +66,91 @@ Le ton de chaque paragraphe sera donné selon qu'il s'agira :
 Il n'y aura pas ou peu de code source.
 
 
+toc::[]
+
+
 # Montée en compétence et expérience
 
-* reconnaître ses erreurs ou avouer qu'on a fait de la merde
+## Reconnaître qu'on débute
+
+*Qu'est-ce que je suis bon !*
+
+Je le dis maintenant depuis plusieurs années, qu'est ce qu'on se sent bon quand on n'y connait rien ! Si en plus on a le loisir de travailler dans une petite équipe et qu'on est le seul curieux mais on est vraiment le meilleur !
+
+On est le seul geek de la (petite boîte), on utilise les seules technos (donc les meilleures) qu'on connaisse, etc... Mais qu'est ce que je suis bon !
+
+Voilà le premier écueil du début : se rendre compte rapidement de l'inexpérience qu'on a (c'est normal, on débute).
+
+Je ne dis pas qu'il faut se flageller quotidiennement en avouant sa médiocrité mais il faut en être conscient.
+
+Il ne faut pas pour autant se sentir nul et ne pas avoir confiance en soi. C'est toute la difficulté du débutant surtout que chaque être humain est unique. Les niveaux et les talents ne sont pas les mêmes.
+
+EXPÉRIENCE : J'ai connu en vrac :
+
+* des débutants qui comprennent très vite et exécutent très vite
+* des débutants qui ne comprennent rien et ne disent rien
+* des débutants très sûrs d'eux mais qui finalement ne font que des bêtises ou n'écoutent personne
+* des débutants lents
+* des débutants non investis
+* ...
+
+La liste est très longue et les combinaisons infinies.
+
+La capacité d'identifier la catégorie de débutant (comme d'employé d'ailleurs) à laquelle on appartient est une capacité à part entière mais il faut déjà commencer par se poser la question : *Quel type de débutant je suis ou j'ai été ?*.
+
+C'est d'ailleurs une question fondamentale qu'il faudra vous adresser régulièrement : *Quel employé suis-je ?*.
+
+Je ne veux pas trop rentrer dans de la psychologie d'entreprise mais identifiez vos capacités, mieux vous connaître permettra de faire de meilleurs choix ou d'avoir un meilleur comportement. Normalement, les appréciations scolaires peuvent être un indice.
+
+*Elève qui a des capacités mais qui ne les exploite pas* signifie *Au boulot !*.
+
+*Elève en difficulté mais qui fait des efforts* montre que vous êtes travailleur.
+
+Cette question, vous pouvez la poser à votre entourage, idéalement pas à vos collègues de bureau, afin d'avoir un regard extérieur sur votre personnalité.
+
+Attention toutefois, si vous êtes le chouchou de la famille, vu comme le petit génie et que vous vous considérez à tort comme un cador du code lors de vos premières années, la désillusion, si désillusion il y a, risque d'être assez terrible.
+
+
+HUMOUR : "Bon en gros, tu ne nous apprends rien, tu nous dis, connais-toi toi-même et encore, c'est difficile car l'entourage ou nous-même pouvons avoir une vision biaisée de nos capacités !".
+
+La seule chose que je dis, c'est de découvrir assez rapidement ses capacités pour pouvoir ensuite se positionner et éviter de se sur-évaluer, si c'est le cas.
+
+SYNTHÈSE : On commence, il faut donc essayer de se connaître soi-même dans le monde du travail et sur un poste particulier. Ne pas se sur-évaluer ni-même se sous-évaluer. Après tout, on débute !
+
+## Reconnaître ses erreurs
+
+Quel que soit votre profil ou catégorie d'employé (cf paragraphe précédent), ne pas savoir reconnaître vos erreurs sera un frein important dans le long apprentissage qu'est  la pratique d'un métier. Je dis bien un frein, n'y voyons pas une impasse, sauf pour les plus têtus.
+
+Au début, c'est d'autant plus dur qu'on a du mal à distinguer ce qui est "bien" ou pas dans notre activité quotidienne.
+
+Mais voici plusieurs exemples pour illustrer ce sentiment de refus de reconnaître ses erreurs.
+
+Lorsqu'on réalise une première livraison ou un recettage, même interne, d'une application, on peut se rendre compte qu'une fonctionnalité que vous avez développée ne marche pas. Je vous vois déjà sourire, c'est expérience n'est jamais arrivée ! C'est difficile de ne pas reconnaître ses erreurs mais on peut souvent être tentée de minimiser ou de trouver d'autres excuses :
+* "Ca devait être testé par telle autre équipe" = mauvaise foi ou fainéantise
+* "Sur ma machine, ça marche", très usuelle = tests pas assez poussés ou environnement différent
+
+La vraie réponse applicable est souvent : "Oui, j'ai fait de la merde". Certes très familière mais assez réaliste.
+
+Il faut donc faire un véritable "post mortem" de la situation, il n'y a pas de honte à avoir, surtout quand on débute. Cela peut être déstabilisant et être un coup dur pour l'amour propre mais autant le dire tout de suite, quand tout va bien, on n'apprend pas grand chose.
+
+Il va sans dire que dans le monde professionnel, comme dans tout groupe ou toute société, une hypocrisie sociale est de rigueur. Selon la relation avec l'équipe ou encore le client, il peut être difficile d'être aussi franc.
+
+HUMOUR, il y a d'ailleurs une sur-utilisation de la "bévue" du débutant dans nos entreprises. Je dirais que "bizarrement", ce ne sont pas nos ingénieurs expérimentés qui ont fait une "bourde" mais le petit stagiaire inexpérimenté... Il est en effet difficile d'avouer qu'une équipe d'experts puissent être à l'origine d'une situation délicate.
+
+Il faut donc au moins s'avouer intérieurement son erreur mais surtout trouver la "parade" pour éviter que cette même erreur ne se reproduise trop souvent. L'erreur fait partie de l'apprentissage. Si une personne vous semble infaillible, soit elle cache bien ses erreurs, soit elle a su mettre à profit l'expérience des erreurs qu'elle a commises. Mais elle en commettra d'autres.
+
+Car oui, l'expérience n'est pas une check list immuable à apprendre par coeur, elle évolue avec le temps et l'expérience.
+
+Dans le monde du développeur, les erreurs peuvent être nombreuses mais il y a des "classiques". Un excès de confiance, une erreur d'inattention ou de fainéantise en sont souvent à l'origine.
+
+Et la réponse la plus souvent à apporter est un jeu de tests efficaces, point que nous aborderons dans les tests (TODO).
+
+SYNTHÈSE :
+* reconnaître ses erreurs
+* mettre en place un processus pour éviter de la reproduire
+
+
+
 * l'expérience peut nous jouer des tours
 * ce qui marche chez l'un mais pas chez l'autre
 * évolution du développeur et place du développeur
